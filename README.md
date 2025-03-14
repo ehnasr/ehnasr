@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehnasr&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehnasr&layout=compact)
 -->
 ![CodeWars Badge](https://www.codewars.com/users/ehnasr/badges/large)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ehnasr)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehnasr&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehnasr&layout=compact)
