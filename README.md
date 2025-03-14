@@ -1,6 +1,6 @@
-## Hi there 👋
 
 <!--
+## Hi there 👋
 **ehnasr/ehnasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/ehnasr)
+![CodeWars Badge](https://www.codewars.com/users/ehnasr/badges/large)
