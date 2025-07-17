@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ehab, Fullstack developer from <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/937d6cac-1dd0-4f63-8fca-d512a824d2f1" /> <b>Egypt</b>. </p>
+<p>Welcome to my page! </br> I'm Ehab, Fullstack developer from <b>Egypt</b> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/937d6cac-1dd0-4f63-8fca-d512a824d2f1" />. </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I use</h3>
 
 <p style="text-dectoration: none">
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" style="text-decoration: none"><img alt="html" src="https://img.shields.io/badge/HTML%205-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=black"></a>
