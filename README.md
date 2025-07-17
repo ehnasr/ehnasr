@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ehab, Fullstack developer from <b>Egypt</b> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/937d6cac-1dd0-4f63-8fca-d512a824d2f1" />. </p>
+<p>Welcome to my page! </br> I'm <b>Ehab</b>, Fullstack developer from <b>Egypt</b> <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/937d6cac-1dd0-4f63-8fca-d512a824d2f1" />. </p>
 
 <h3 align="left">Languages and Tools I use</h3>
 
