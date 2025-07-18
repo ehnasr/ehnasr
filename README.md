@@ -30,7 +30,7 @@
 <p>
 <a href="https://github.com/ehnasr" target="_blank" rel="noreferrer" style="text-decoration: none"><img alt="github" src="https://img.shields.io/badge/Github-454545?style=for-the-badge&logo=github&logoColor=454545&labelColor=black"></a>
 <a href="https://www.linkedin.com/in/ehnasr/" target="_blank" rel="noreferrer" style="text-decoration: none"><img alt="linkedin" src="https://img.shields.io/badge/Linkedin-0180FF?style=for-the-badge&logo=invision&logoColor=0180FF&labelColor=black"></a>
-<a href="" target="_blank" rel="noreferrer" style="text-decoration: none"><img alt="wuzzuf" src="https://img.shields.io/badge/Wuzzuf-0058A3?style=for-the-badge&logo=webtrees&logoColor=0058A3&labelColor=black"></a>
+<a href="https://wuzzuf.net/me/ehab-nasr" target="_blank" rel="noreferrer" style="text-decoration: none"><img alt="wuzzuf" src="https://img.shields.io/badge/Wuzzuf-0058A3?style=for-the-badge&logo=webtrees&logoColor=0058A3&labelColor=black"></a>
 <a href="https://ehab-nasr-portfolio.vercel.app/" target="_blank" rel="noreferrer" style="text-decoration: none"><img alt="website" src="https://img.shields.io/badge/Personal Website-e2c158?style=for-the-badge&logo=e&logoColor=e2c158&labelColor=black"></a>
 </p>
 </p>
