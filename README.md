@@ -37,4 +37,6 @@
 
 <!--![CodeWars Badge](https://www.codewars.com/users/ehnasr/badges/large)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ehnasr)-->
+![Profile views](https://komarev.com/ghpvc/?username=ehnasr&color=blue)
+
 
